@@ -1,0 +1,3 @@
+train_roc,val_roc,test_roc,hidden,batch_size,lr,local_layers,global_layers,num_heads,beta,dropout,global_dropout,local_epochs,global_epochs,use_edges
+0.8327,0.7386,0.7091,64,512,0.001,7,2,4,-1.0,0.3,0.3,100,100,1
+0.8246,0.7353,0.7103,64,512,0.001,7,2,4,-1.0,0.3,0.3,100,100,0
